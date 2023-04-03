@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestAPI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2c80173-cd39-40c6-9182-1748c538fdfd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6e4ae56b-5e3f-488b-ab0c-aeffdfd70eb2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>09089033-6fb7-4545-bbeb-3ab17f46be27</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>128bc649-d29e-4577-9df9-910f216c38ee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e4ae56b-5e3f-488b-ab0c-aeffdfd70eb2</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>09089033-6fb7-4545-bbeb-3ab17f46be27</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>128bc649-d29e-4577-9df9-910f216c38ee</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>

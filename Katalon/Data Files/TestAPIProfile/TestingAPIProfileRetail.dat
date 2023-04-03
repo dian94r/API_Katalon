@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TestingAPIProfileRetail</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>49f39b1c-2305-414b-9a3d-044e99f1ccbb</dataFileGUID>
+   <dataSourceUrl>C:\Users\Lenovo\OneDrive - PT Asuransi Jiwa IFG\Fraud Checking\Risk Profile\Data_Risk_Profile.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Retail </sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

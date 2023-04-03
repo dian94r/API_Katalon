@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestingAPIContoh</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>fc8a8d78-d304-45bb-b19d-f0157bf3ed90</testSuiteGuid>
+   <testCaseLink>
+      <guid>f1cfe771-085f-4b5f-8971-81c7d1a25c24</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Testing/TestAPI</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>02089428-19dc-4647-8080-3a0a988d930c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Testing2/TestingAPIContoh</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>02089428-19dc-4647-8080-3a0a988d930c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>6e4ae56b-5e3f-488b-ab0c-aeffdfd70eb2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>02089428-19dc-4647-8080-3a0a988d930c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>job</value>
+         <variableId>09089033-6fb7-4545-bbeb-3ab17f46be27</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>02089428-19dc-4647-8080-3a0a988d930c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>id</value>
+         <variableId>128bc649-d29e-4577-9df9-910f216c38ee</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
